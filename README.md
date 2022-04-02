@@ -1,4 +1,4 @@
-### Hi there 👋, it's Gabriel!
+### Hi there, it's Gabriel! 👋
 #### 16 year old furry that starts projects but never finish them.
 ![16 year old furry that starts projects but never finish them.](https://github.com/DevJeffreyG/DevJeffreyG/blob/master/Banner.png?raw=true)
 
@@ -10,8 +10,17 @@ Skills: JS / HTML / CSS / PHP / NODE / PYTHON
 - 📫 How to reach me: gabrielpaez.r@hotmail.com 
 - ⚡ Fun fact: I'm also ñ 
 
+<details><summary>Social media</summary>
+  <div align="center">
+    <a href="https://github.com/DevJeffreyG"><img title="GitHub" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
+    <a href="https://twitter.com/JeffreyG__"><img title="'Business' Twitter" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a> 
+    <a href="https://twitter.com/fakeJeffreyG"><img title="Personal Twitter" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a> 
+    <a href="https://www.youtube.com/JeffreyG"><img title="YouTube" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'></a>
+  </div>
+</details>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DevJeffreyG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JeffreyG__) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fakeJeffreyG) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCCYiF7GGja7iJgsc4LN0oHw)  
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DevJeffreyG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JeffreyG__) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fakeJeffreyG) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCCYiF7GGja7iJgsc4LN0oHw)  
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevJeffreyG)](https://github.com/ryo-ma/github-profile-trophy)
 
