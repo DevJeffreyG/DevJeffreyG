@@ -12,19 +12,38 @@ Skills: JS / HTML / CSS / PHP / NODE / PYTHON
 
 <details><summary>Social media</summary>
   <div align="center">
-    <a href="https://github.com/DevJeffreyG"><img title="GitHub" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
-    <a href="https://twitter.com/JeffreyG__"><img title="'Business' Twitter" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a> 
-    <a href="https://twitter.com/fakeJeffreyG"><img title="Personal Twitter" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a> 
-    <a href="https://www.youtube.com/JeffreyG"><img title="YouTube" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'></a>
+    <a href="https://github.com/DevJeffreyG">
+      <img title="GitHub" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+    </a> 
+    <a href="https://twitter.com/JeffreyG__">
+      <img title="'Business' Twitter" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
+    </a> 
+    <a href="https://twitter.com/fakeJeffreyG">
+      <img title="Personal Twitter" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
+    </a> 
+    <a href="https://www.youtube.com/JeffreyG">
+      <img title="YouTube" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>
+    </a>
+  </div>
+</details>
+<details><summary>Trophies</summary>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=DevJeffreyG" />
   </div>
 </details>
 
-<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DevJeffreyG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JeffreyG__) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fakeJeffreyG) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCCYiF7GGja7iJgsc4LN0oHw)  
--->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevJeffreyG)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="center">Stats</h1>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJeffreyG&show_icons=true)  
+<table align="center">
+  <tr>
+    <td>
+      <img src ="https://github-readme-stats.vercel.app/api?username=DevJeffreyG&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=b3f155&title_color=9ee436&text_color=c5d1b2" />
+    </td>
+    <td>
+      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJeffreyG&layout=compact&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=c5d1b" />
+    </td>
+  </tr>
+</table>
 
-![GitHub metrics](https://metrics.lecoq.io/DevJeffreyG)  
-
+-----------
