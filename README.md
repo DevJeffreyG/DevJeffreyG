@@ -4,14 +4,15 @@
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. - Cicero
 
 ### 16 year old furry that starts projects but never finish them.
-- 💎 I’m currently working on [Tutmonda](https://github.com/Jleguim/tutmonda-project)! 
-- 📚 I’m currently learning Express.js & HTML.
+- 💎 I’m currently working on [Jeffrey Bot (🇪🇸)](https://github.com/DevJeffreyG/JeffreyBot)!
+- 📚 I’m currently learning Express.js & CSS.
 - 💚 Fun fact: I'm also ñ.
 
 ### Skills:
 - 🌐 Web development with HTML, PHP, JavaScript, Node, EJS & CSS.
 - 💾 Database experience with MySQL, MongoDB.
 - ♟ Experience with Python, Java & C#.
+- 🤖 Experience with text bots for Discord and Twitch.
 
 ### Contact:
 - 📧 Email — gabrielpaez.r@hotmail.com
