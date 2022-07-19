@@ -3,7 +3,7 @@
 ## Hi there, it's Gabriel! 🦊
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. - Cicero
 
-### 16 year old furry that starts projects but never finish them.
+### 16 year old furry that starts projects but never publishes them.
 - 💎 I’m currently working on [Jeffrey Bot (🇪🇸)](https://github.com/DevJeffreyG/JeffreyBot)!
 - 📚 I’m currently learning Express.js & CSS.
 - 💚 Fun fact: I'm also ñ.
