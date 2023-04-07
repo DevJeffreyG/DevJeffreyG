@@ -1,15 +1,15 @@
-![16 year old furry that starts projects but never finish them.](https://github.com/DevJeffreyG/DevJeffreyG/blob/master/Banner.png?raw=true)
+![17 year old furry that starts projects but never finish them.](https://github.com/DevJeffreyG/DevJeffreyG/blob/master/Banner.png?raw=true)
 
 ## Hi there, it's Gabriel! 🦊
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. - Cicero
+> Doing spaghetti code since 2018
 
-### 16 year old furry that starts projects but never publishes them.
-- 💎 I’m currently working on [Jeffrey Bot (🇪🇸)](https://github.com/DevJeffreyG/JeffreyBot)!
+### 17 year old furry that starts projects but never publishes them.
+- 💎 I’m currently working on [Jeffrey Bot (ES)](https://jeffreybot.onrender.com/changelog)!
 - 📚 I’m currently learning Express.js & CSS.
 - 💚 Fun fact: I'm also ñ.
 
 ### Skills:
-- 🌐 Web development with HTML, PHP, JavaScript, Node, EJS & CSS.
+- 🌐 Web development with HTML, JavaScript, Node, EJS & CSS.
 - 💾 Database experience with MySQL, MongoDB.
 - ♟ Experience with Python, Java & C#.
 - 🤖 Experience with text bots for Discord and Twitch.
