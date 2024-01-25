@@ -3,8 +3,8 @@
 ## Hi there, it's Gabriel! 🦊
 > Doing spaghetti code since 2018
 
-### 17 year old furry that starts projects but never publishes them.
-- 💎 I’m currently working on a Discord Bot, [Jeffrey Bot (ES)](https://jeffreybot.azurewebsites.net/changelog)!
+### 18 year old furry that makes projects but never publishes them.
+- 💎 I’m currently working on my Discord Bot, [Jeffrey Bot (ES)](https://jeffreybot.azurewebsites.net/)!
 - 📚 I’m currently learning Java.
 - 💚 Fun fact: I'm also ñ.
 
