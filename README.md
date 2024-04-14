@@ -16,10 +16,8 @@
 
 ### Contact:
 - 📧 Email — gabrielpaez.r@hotmail.com
-- 🕊 Personal Twitter — [@fakeJeffreyG](https://twitter.com/fakeJeffreyG)
-- 🐦 Twitter — [@JeffreyG__](https://twitter.com/JeffreyG__)
-- 🎞 Youtube — [youtube.com/JeffreyG](https://www.youtube.com/JeffreyG)
-- 💜 Twitch — [twitch.tv/JeffreyG_](https://twitch.tv/JeffreyG_)
+- 🎞 Youtube — [youtube.com/JeffreyG](https://www.youtube.com/@JeffreyG)
+- 💜 Twitch — [twitch.tv/JeffreyG_](https://twitch.tv/jeffreyg_)
 
 <h1 align="center">Stats</h1>
   <table align="center">
