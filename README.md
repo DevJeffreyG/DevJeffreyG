@@ -1,9 +1,9 @@
-![17 year old furry that starts projects but never finish them.](https://github.com/DevJeffreyG/DevJeffreyG/blob/master/Banner.png?raw=true)
+![BANNER](https://github.com/DevJeffreyG/DevJeffreyG/blob/master/Banner.png?raw=true)
 
 ## Hi there, it's Gabriel! 🦊
 > Doing spaghetti code since 2018
 
-### 18 year old furry that makes projects but never publishes them.
+### 19 year old furry that makes projects but never publishes them.
 - 💎 I’m currently working on my Discord Bot, [Jeffrey Bot (ES)](https://jeffreybot.azurewebsites.net/)!
 - 📚 I’m currently learning Java.
 - 💚 Fun fact: I'm also ñ.
@@ -16,8 +16,7 @@
 
 ### Contact:
 - 📧 Email — gabrielpaez.r@hotmail.com
-- 🎞 Youtube — [youtube.com/JeffreyG](https://www.youtube.com/@JeffreyG)
-- 💜 Twitch — [twitch.tv/JeffreyG_](https://twitch.tv/jeffreyg_)
+- 💬 Discord — @jeffrowo
 
 <h1 align="center">Stats</h1>
   <table align="center">
