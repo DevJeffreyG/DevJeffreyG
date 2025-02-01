@@ -4,19 +4,13 @@
 > Doing spaghetti code since 2018
 
 ### 19 year old furry that makes projects but never publishes them.
-- 💎 I’m currently working on my Discord Bot, [Jeffrey Bot (ES)](https://jeffreybot.azurewebsites.net/)!
-- 📚 I’m currently learning Java.
-- 💚 Fun fact: I'm also ñ.
+- 💎 I’m currently working on my Discord Bot, [Jeffrey Bot (ES)](https://jeffreybot-dashboard.azurewebsites.net/)!
 
 ### Skills:
-- 🌐 Web development with HTML, JavaScript, Node, EJS & CSS.
 - 🤖 Discord Bot development using Discord.JS.
-- 💾 Database experience with MySQL, MongoDB.
-- ♟ Experience with Python & C#.
-
-### Contact:
-- 📧 Email — gabrielpaez.r@hotmail.com
-- 💬 Discord — @jeffrowo
+- 🌐 Web development with HTML, JavaScript, Node, EJS & CSS.
+- 💾 Database experience with MongoDB.
+- ♟ Experience with Python, C# and Java.
 
 <h1 align="center">Stats</h1>
   <table align="center">
