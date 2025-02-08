@@ -1,4 +1,4 @@
-![BANNER](https://github.com/DevJeffreyG/DevJeffreyG/blob/master/Banner.png?raw=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&duration=3000&pause=1000&color=94FD01&center=true&vCenter=true&random=true&width=1920&height=460&lines=JeffreyG;Jeffrowo;DevJeffreyG;Jeffrey;Jeff;Gabriel)](https://git.io/typing-svg)
 
 ## Hi there, it's Gabriel! 🦊
 > Doing spaghetti code since 2018
