@@ -3,7 +3,7 @@
 ## Hi there, it's Gabriel! 🦊
 > Doing spaghetti code since 2018
 
-### 19 year old furry that makes projects but never publishes them.
+### 20 year old furry that makes projects but never publishes them.
 - 💎 I’m currently working on my Discord Bot, [Jeffrey Bot (ES)](https://jeffreybot-dashboard.azurewebsites.net/)!
 
 ### Skills:
